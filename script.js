@@ -1,4 +1,4 @@
-let count = 648;
+let count = 1;
 
 function scrollThroughImages(){
 let pokedex = document.getElementById('viewer-window');
